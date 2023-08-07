@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "chaindesk.ai - Connect custom data to large language models",
+  "name": "RapidAent.ai - Connect custom data to large language models",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -23,11 +23,11 @@
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://chaindesk.ai/"
+    "url": "https://RapidAent.ai/"
   },
   "anchors": [
     {
-      "name": "chaindesk API",
+      "name": "RapidAent API",
       "icon": "rectangle-terminal",
       "url": "api-reference"
     },
@@ -37,14 +37,14 @@
       "url": "integrations"
     },
     {
-      "name": "chaindesk Apps",
+      "name": "RapidAent Apps",
       "icon": "wand-magic-sparkles",
       "url": "apps"
     },
     {
-      "name": "support@chaindesk.ai",
+      "name": "support@RapidAent.ai",
       "icon": "comment-question",
-      "url": "mailto:support@chaindesk.ai"
+      "url": "mailto:support@RapidAent.ai"
     }
   ],
   "navigation": [
@@ -53,11 +53,11 @@
       "pages": ["introduction", "platform"]
     },
     {
-      "group": "chaindesk API",
+      "group": "RapidAent API",
       "pages": ["api-reference/authentication"]
     },
     {
-      "group": "chaindesk Apps",
+      "group": "RapidAent Apps",
       "pages": ["apps/introduction", "apps/chat-site"]
     },
     {
