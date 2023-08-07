@@ -1,11 +1,11 @@
 openapi: 3.0.1
 info:
-  title: Chaindesk.ai - API OpenAPI specifications
+  title: RapidAgent.ai - API OpenAPI specifications
   description: |-
 
-  termsOfService: http://chaindesk.ai/terms
+  termsOfService: https://rapidagent.ai/terms
   contact:
-    email: support@chaindesk.ai
+    email: support@rapidagent.ai
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
