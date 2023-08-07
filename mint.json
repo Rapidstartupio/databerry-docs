@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "RapidAent.ai - Connect custom data to large language models",
+  "name": "RapidAgent.ai - Connect custom data to large language models",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -23,11 +23,11 @@
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://RapidAent.ai/"
+    "url": "https://RapidAgent.ai/"
   },
   "anchors": [
     {
-      "name": "RapidAent API",
+      "name": "RapidAgent API",
       "icon": "rectangle-terminal",
       "url": "api-reference"
     },
@@ -37,14 +37,14 @@
       "url": "integrations"
     },
     {
-      "name": "RapidAent Apps",
+      "name": "RapidAgent Apps",
       "icon": "wand-magic-sparkles",
       "url": "apps"
     },
     {
-      "name": "support@RapidAent.ai",
+      "name": "support@RapidAgent.ai",
       "icon": "comment-question",
-      "url": "mailto:support@RapidAent.ai"
+      "url": "mailto:support@RapidAgent.ai"
     }
   ],
   "navigation": [
@@ -53,11 +53,11 @@
       "pages": ["introduction", "platform"]
     },
     {
-      "group": "RapidAent API",
+      "group": "RapidAgent API",
       "pages": ["api-reference/authentication"]
     },
     {
-      "group": "RapidAent Apps",
+      "group": "RapidAgent Apps",
       "pages": ["apps/introduction", "apps/chat-site"]
     },
     {
